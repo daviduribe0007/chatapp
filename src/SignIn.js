@@ -1,6 +1,6 @@
 import React from "react";
 import firebase from "firebase/app";
-import { auth } from "./App";
+import { auth } from "./auth";
 
 export function SignIn() {
   const signInWithGoogle = () => {

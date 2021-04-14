@@ -1,5 +1,5 @@
 import React from "react";
-import { auth } from "./App";
+import { auth } from "./auth";
 
 export function SignOut() {
   return (
